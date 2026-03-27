@@ -1,0 +1,4 @@
+Scripts:
+
+Update Clientes
+Set Aquivo_Morto = 'N'

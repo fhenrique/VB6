@@ -1,0 +1,8 @@
+Line 35: Class MSComCtl2.DTPicker of control dtpDataDe was not a loaded control class.
+Line 66: Class MSComCtl2.DTPicker of control dtpDataAte was not a loaded control class.
+Line 242: Class MSFlexGridLib.MSFlexGrid of control dgEnderecos was not a loaded control class.
+Line 261: Class MSFlexGridLib.MSFlexGrid of control Grid_Hist was not a loaded control class.
+Line 285: Class MSFlexGridLib.MSFlexGrid of control Grid_Prox_Visita was not a loaded control class.
+Line 344: Class MSComCtl2.DTPicker of control Txt_Dt_Criacao was not a loaded control class.
+Line 357: Class MSComCtl2.DTPicker of control Mask_Dt_Prox_Visita was not a loaded control class.
+Line 462: Class MSMask.MaskEdBox of control Mask_Hora_Prox_Visita was not a loaded control class.

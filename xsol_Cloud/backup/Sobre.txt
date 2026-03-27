@@ -1,0 +1,29 @@
+Arquivos e banco de dados na KingHost (mySQL)
+
+Server: mysql.xsolaquecedores.com.br
+Port: 3306
+Database: xsolaquecedore01
+User: xsolaquecedore01
+Password: xsol303080
+
+
+
+
+
+--------------Modelo de conexao com o banco mySQL no VB6
+Private Sub Command1_Click()
+    Dim conexao As New ADODB.Connection
+    
+    conexao.Open "Driver={MySQL ODBC 3.51 Driver};" & _
+    "Server=mysql.xsolaquecedores.com.br;" & _
+    "Port=3306;" & _
+    "Database=xsolaquecedore01;" & _
+    "User=xsolaquecedore01;" & _
+    "Password=xsol303080;" & _
+    "Option=3;"
+    
+    MsgBox "conectado"
+
+End Sub
+
+

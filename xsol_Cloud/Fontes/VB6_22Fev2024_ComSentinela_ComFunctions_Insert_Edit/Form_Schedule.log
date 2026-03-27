@@ -1,0 +1,5 @@
+Line 532: Class MSFlexGridLib.MSFlexGrid of control Grid_Schedule was not a loaded control class.
+Line 581: Class MSComCtl2.DTPicker of control Mask_Dt_Inicial was not a loaded control class.
+Line 649: Class MSMask.MaskEdBox of control Mask_Dt_Inicial2 was not a loaded control class.
+Line 673: Class MSMask.MaskEdBox of control Mask_Dt_Final2 was not a loaded control class.
+Line 697: Class MSComCtl2.DTPicker of control Mask_Dt_Final was not a loaded control class.

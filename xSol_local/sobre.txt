@@ -1,0 +1,13 @@
+Este projeto está em VB6
+senha dos arquivos compactados se pedir: xsol80
+
+
+Database na nuvem Kinghost:
+host para conexao: mssql.xsolaquecedores.com.br
+host alternativo: mssql01-farm68.kinghost.net
+usuário: xsolaquecedores
+senha para logar no db: xsol80
+
+Painel de controle do Kinghost:
+email: cleitonlorenco@hotmail.com
+senha: xsol803030

@@ -1,0 +1,28 @@
+Para o teste:
+ 1. Edita a tabela configuracao e edita o campo numeroAtualizacao para 4 
+ 2. dropa as tabelas: material, materialFornecedor
+ 3. Edita a estrutura da tabela Estoque e dropa o campo codMaterial
+ 
+
+- Material:
+ criou a tabela: OK
+ copiou os produtos da estoque: OK
+ apagou a estoque: OK
+
+- Configuracao
+  atualizou o campo NumeroAtualizacao para 5: OK
+
+- MaterialFornecedor:
+ criou a tabela: OK
+
+- Estoque:
+ Inseriu o campo codMaterial na estrutura da tabela: OK
+
+- Material:
+ não apagou a estoque após tentativa de re-fazer a atualização: OK
+
+
+
+
+
+

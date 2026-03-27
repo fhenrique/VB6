@@ -1,0 +1,36 @@
+Próximo orçamento:
+valor com alteração do DB para SQL Server: 1.200,00
+valor sem alteração do DB para SQL Server: 800,00
+
+1. Na tela tipo de serviço, a linkagem seja feita por código e não por nome do serviço
+   Tempo: 2horas
+
+2. Na tela de visita adicionar 2 campos somente informativos, um para exibir o telefone do cliente e outro
+   para mostrar a zona onde o cliente mora
+   Tempo: 1hora
+
+3. Alterar o DB para SQL Server Cloud
+   Tempo: 1.300 por ano
+
+4. Na tela de estoque colocar alguns relatórios:
+
+	4.1 Listagem de ENTRADA de equipamentos, com filtro entre datas (DE/ATE): Este relatório irá exibir 		uma lista dos equipamentos comprados, apresentando data de entrada, quantidade comprada, valor que o 		mesmo foi comprado e valor total da compra: 3 horas
+
+	4.2 Listagem de SAÍDA de equipamentos, com filtro entre datas (DE/ATE): Este relatório irá exibir uma 	lista dos equipamentos retirados, apresentando data da saída, data da última saída, qtd da ultima 		saída e cliente para quem saiu, tecnico que fez a retirada, quantidade vendida, valor de lucro na 		venda(exibição opcional), valor que o mesmo foi vendido e valor total da saída.
+
+: 3 horas
+
+	4.3 Retirada de equipamentos, filtando por nome do Técnico e Data: Este relatório exibirá uma lista 		contendo todos equipamentos já retirados pelo técnico X, entre uma data A e data B.
+	3 horas
+
+
+6. Na tela de visitas, no change do campo "Próxima visita", colocar campo para informar quantas visitas já existem na data informada (no campo próxima visita, dtpicker)
+2 horas
+
+7.Alterações na ficha de assistencia técnica:
+ 7.1 Colocar a lista de equipamento(s) antes de serviço
+ 7.2 colocar a observacao tudo em vermelho
+ 7.3 colcar nome e número da OS ,tudo em vermelho
+1 hora	
+
+NÃO COBRADO: exibir nos txtS o valor já com o lucro que foi informado na tela de estoque

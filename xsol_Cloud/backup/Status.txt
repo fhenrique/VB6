@@ -1,0 +1,56 @@
+Pre-requisitos para a versão cloud da xsol
+1) Criar a pasta /imgs na pasta do sistema (.appth)
+	obs: Na pasta do sistema, criar a pasta imgs e colocar as novas imagens que estão em C:\Sistema xSol\imgs (on e off)
+	
+2) Copiar os arquivos de imagem para dento da pasta criada acima
+
+---
+Telas
+1. Login: OK (versão de 20Fev)
+
+2. Cadastro de Clientes: OK
+	2.4 Load: OK
+	
+	2.2 Clique no grid Lista de clientes: OK
+	
+	2.3 Clique no grid  Endereços: OK
+		2.3.1: duplo clique: ok
+		2.3.2: Inserir na tela cadastro de endereços: OK
+		2.3.3: Editar na tela cadastro de endereços: OK
+		2.3.4: Excluir na tela  cadastro de endereços: OK
+		2.3.5: Testar o CRUD com atraso para persistir a conexao mysql: OK
+		
+	
+	2.4 Grid Equipamentos
+		2.4.1: duplo clique no grid: OK
+		2.4.2: inserir na tela cadastro de equipamentos: ok
+		2.4.3: editar na tela cadastro de equipamentos: ok
+		2.4.4: excluir na tela cadastro de equipamentos: OK
+		2.4.5: Testar o CRUD com atraso para persistir a conexao mysql: OK
+
+3. Agenda: 
+	Load: OK
+	Pesquisa: OK
+
+
+Syntaxe mysql:
+
+	SELECT * FROM `Clientes` c WHERE codigo =
+	SELECT c.codigo,nome_cli,cpf,fone_celular,Aquivo_Morto, Aquivo_Morto_Justificativa FROM `Clientes` c LEFT JOIN `Endereco` e ON c.codigo = e.cod_cliente	order by c.codigo desc 	limit 50
+		
+		
+
+exemplo:
+
+    Do While Not cloud_registro.EOF
+       Combo_Tecnico.AddItem rs.Fields("Val")
+       cloud_registro.MoveNext
+    Loop
+
+    cloud_sql = "SELECT Nome AS Val FROM Tecnico where status = 'A'"
+    Set cloud_registro = cloud_conexao.Execute("")
+    
+    
+    If cloud_registro.EOF Then
+       Exit Sub
+    End If

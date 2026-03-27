@@ -1,0 +1,2 @@
+Para cada arquivo compactado desses, ir na KingHost e importar um a um para o banco de dados
+xsolaquecedore01, obedecendo a ordem de 01 até 0x que tem na nomenclatura dos arquivos

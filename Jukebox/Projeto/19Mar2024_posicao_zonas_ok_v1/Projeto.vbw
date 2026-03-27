@@ -1,0 +1,5 @@
+frmPrincipal = 240, 37, 885, 728, , 0, 0, 0, 0, C
+frmConfig = 48, 52, 1020, 751, , 0, 0, 0, 0, C
+frmPressAnyKey = 100, 0, 731, 728, C, 0, 0, 0, 0, C
+Global = 109, 0, 665, 728, 
+frmKeysConfig = 100, 0, 727, 728, C, 0, 0, 0, 0, C

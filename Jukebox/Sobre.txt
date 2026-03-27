@@ -1,0 +1,27 @@
+Projeto em VB6
+
+
+
+- panZonaPrincipal
+	left: 160 (deixei isto automático no load do frm, para debug precisei comentar)
+	top: 180  (deixei isto automático no load do frm, para debug precisei comentar)
+	width: 14985
+	height: 14445
+----------------------------
+- panZona1
+	Left: -45
+	Top: 14670
+	Width: 5145
+	Height: 4350
+----------------------------------------------------
+- panZona2: 
+	Left: 5085
+	Top: 14670
+	Width: 5145
+	Height: 4350
+----------------------------------------------------		
+- panZona3: 
+	Left: 10320
+	Top: 14670
+	Width: 5145
+	Height: 4350

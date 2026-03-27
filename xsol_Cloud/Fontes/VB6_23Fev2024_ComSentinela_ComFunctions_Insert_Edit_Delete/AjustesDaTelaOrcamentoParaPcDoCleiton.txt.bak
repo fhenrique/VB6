@@ -1,0 +1,33 @@
+Se for pc do Cleiton:
+	Frame1: 
+		Width: 23640
+	Frame6:
+		top: 690
+		Left: 16515
+		height: 7755
+		Width: 6435
+	panClone
+		Left: 21885
+	Frame2:
+		widht: 16065
+	btnConverterProspect:
+		Left: 13200
+	Frame4:
+		Width: 10485
+	gridSolucoes:
+		widht: 10260
+	Frame9:
+		widht: 9825
+	gridFormasPagamento:
+		widht: 9555
+	Frame13
+		top: 7785
+		left: 13890
+		widht: 2340
+	txtDesconto:
+		left: 555
+	Frame12:
+		left: 13830
+		widht: 9150
+	bntPesquisar:
+		left: 7905

@@ -1,0 +1,197 @@
+[Root]
+Most Recent Package=Projeto Xsol (teste) 28/02
+
+
+[Package|Projeto Xsol|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=G:\Carlos\Projetos\Xsol\Programa_Xsol\Package
+
+[Package|Projeto Xsol|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Projeto Xsol|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Projeto Xsol|Files Found]
+
+[Package|Projeto Xsol|Files Released]
+
+[Package|Projeto Xsol|Missing Dependency Information]
+C:\Arquivos de programas\Arquivos comuns\System\ado\msado25.tlb=
+
+[Package|Projeto Xsol|Out-of-Date Dependency Information]
+
+[Package|Projeto Xsol|Files Added]
+G:\Carlos\Projetos\Xsol\Programa_Xsol\dados.mdb=
+
+[Package|Projeto Xsol|Files Removed]
+
+[Package|Projeto Xsol|Files In Project]
+G:\Carlos\Projetos\Xsol\Programa_Xsol\Project_Xsol.exe=Yes
+C:\WINNT\system32\MSVBVM60.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Arquivos de programas\Arquivos comuns\System\ado\msado25.tlb=Yes
+C:\WINNT\system32\MSCOMCTL.OCX=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+G:\Carlos\Projetos\Xsol\Programa_Xsol\dados.mdb=Yes
+
+[Package|Projeto Xsol|Configure Registry Files]
+Applicable=No
+
+[Package|Projeto Xsol|Configure Remote Servers]
+Applicable=No
+
+[Package|Projeto Xsol|Install Locations]
+G:\Carlos\Projetos\Xsol\Programa_Xsol\Project_Xsol.exe=$(AppPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Arquivos comuns\System\ado\msado25.tlb=$(WinSysPath)
+C:\WINNT\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+G:\Carlos\Projetos\Xsol\Programa_Xsol\dados.mdb=$(AppPath)
+
+[Package|Projeto Xsol|Configure Shared Files]
+Applicable=Yes
+G:\Carlos\Projetos\Xsol\Programa_Xsol\Project_Xsol.exe=Yes
+G:\Carlos\Projetos\Xsol\Programa_Xsol\dados.mdb=Yes
+
+[Package|Projeto Xsol|Distribution]
+Type=multi
+Size=1.44 MB
+Title=X-Sol
+
+[Package|Projeto Xsol|IconGroups]
+Group0=X-Sol
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Projeto Xsol|X-Sol]
+Icon1=Project_Xsol.exe
+Title1=X-Sol
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Projeto Xsol|Package]
+PackageFolder=G:\Carlos\Projetos\Xsol\Programa_Xsol\Package
+ProjectFolder=G:\Carlos\Projetos\Xsol\Programa_Xsol
+ServerSideCab=
+File1=G:\Carlos\Projetos\Xsol\Programa_Xsol\Package\setup.exe
+File2=G:\Carlos\Projetos\Xsol\Programa_Xsol\Package\Setup.Lst
+File3=G:\Carlos\Projetos\Xsol\Programa_Xsol\Package\Projec1.CAB
+File4=G:\Carlos\Projetos\Xsol\Programa_Xsol\Package\Projec2.CAB
+Handler1=PDWizard.FloppyDplySubWiz
+Handler2=PDWizard.FolderDplySubWiz
+Handler3=PDWizard.WebPostDplySubWiz
+
+[Package|Projeto Xsol (teste) 28/02|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=G:\Carlos\Projetos\Xsol\Programa_Xsol\Package
+
+[Package|Projeto Xsol (teste) 28/02|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Projeto Xsol (teste) 28/02|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Projeto Xsol (teste) 28/02|Files Found]
+
+[Package|Projeto Xsol (teste) 28/02|Files Released]
+
+[Package|Projeto Xsol (teste) 28/02|Missing Dependency Information]
+C:\Arquivos de programas\Arquivos comuns\System\ado\msado25.tlb=
+
+[Package|Projeto Xsol (teste) 28/02|Out-of-Date Dependency Information]
+
+[Package|Projeto Xsol (teste) 28/02|Files Added]
+g:\carlos\projetos\xsol\programa_xsol\dados.mdb=
+
+[Package|Projeto Xsol (teste) 28/02|Files Removed]
+
+[Package|Projeto Xsol (teste) 28/02|Files In Project]
+G:\Carlos\Projetos\Xsol\Programa_Xsol\Project_Xsol.exe=Yes
+C:\WINNT\system32\MSVBVM60.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Arquivos de programas\Arquivos comuns\System\ado\msado25.tlb=Yes
+C:\WINNT\system32\MSCOMCTL.OCX=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+G:\Carlos\Projetos\Xsol\Programa_Xsol\dados.mdb=Yes
+C:\WINNT\system32\DBGRID32.OCX=Yes
+
+[Package|Projeto Xsol (teste) 28/02|Configure Registry Files]
+Applicable=No
+
+[Package|Projeto Xsol (teste) 28/02|Configure Remote Servers]
+Applicable=No
+
+[Package|Projeto Xsol (teste) 28/02|Install Locations]
+G:\Carlos\Projetos\Xsol\Programa_Xsol\Project_Xsol.exe=$(AppPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Arquivos comuns\System\ado\msado25.tlb=$(WinSysPath)
+C:\WINNT\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+G:\Carlos\Projetos\Xsol\Programa_Xsol\dados.mdb=$(AppPath)
+C:\WINNT\system32\DBGRID32.OCX=$(WinSysPath)
+
+[Package|Projeto Xsol (teste) 28/02|Configure Shared Files]
+Applicable=Yes
+G:\Carlos\Projetos\Xsol\Programa_Xsol\Project_Xsol.exe=Yes
+G:\Carlos\Projetos\Xsol\Programa_Xsol\dados.mdb=Yes
+
+[Package|Projeto Xsol (teste) 28/02|Distribution]
+Type=multi
+Size=1.44 MB
+Title=X-Sol
+
+[Package|Projeto Xsol (teste) 28/02|Package]
+PackageFolder=G:\Carlos\Projetos\Xsol\Programa_Xsol\Package
+ProjectFolder=G:\Carlos\Projetos\Xsol\Programa_Xsol
+ServerSideCab=
+File1=G:\Carlos\Projetos\Xsol\Programa_Xsol\Package\setup.exe
+File2=G:\Carlos\Projetos\Xsol\Programa_Xsol\Package\Setup.Lst
+File3=G:\Carlos\Projetos\Xsol\Programa_Xsol\Package\Projec1.CAB
+File4=G:\Carlos\Projetos\Xsol\Programa_Xsol\Package\Projec2.CAB
+Handler1=PDWizard.FloppyDplySubWiz
+Handler2=PDWizard.FolderDplySubWiz
+Handler3=PDWizard.WebPostDplySubWiz
+
+[Package|Projeto Xsol (teste) 28/02|IconGroups]
+Group0=X-Sol
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Projeto Xsol (teste) 28/02|X-Sol]
+Icon1=Project_Xsol.exe
+Title1=X-Sol
+StartIn1=$(AppPath)
+Key1=Icon1

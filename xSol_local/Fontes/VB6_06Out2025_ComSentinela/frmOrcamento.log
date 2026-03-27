@@ -1,0 +1,11 @@
+Line 72: Class MSComCtl2.DTPicker of control dtpDataDe was not a loaded control class.
+Line 84: Class MSComCtl2.DTPicker of control dtpDataAte was not a loaded control class.
+Line 131: Class MSComDlg.CommonDialog of control CommonDialog2 was not a loaded control class.
+Line 175: Class MSComDlg.CommonDialog of control CommonDialog1 was not a loaded control class.
+Line 291: Class MSFlexGridLib.MSFlexGrid of control gridObservacoes was not a loaded control class.
+Line 339: Class MSFlexGridLib.MSFlexGrid of control gridFormasPagamento was not a loaded control class.
+Line 379: Class MSFlexGridLib.MSFlexGrid of control gridGarantias was not a loaded control class.
+Line 446: Class MSFlexGridLib.MSFlexGrid of control gridOrcamentos was not a loaded control class.
+Line 539: Class MSFlexGridLib.MSFlexGrid of control gridSolucoes was not a loaded control class.
+Line 668: Class MSFlexGridLib.MSFlexGrid of control gridEnderecos was not a loaded control class.
+Line 844: Class MSComCtl2.DTPicker of control dtpData was not a loaded control class.

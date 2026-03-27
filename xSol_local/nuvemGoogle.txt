@@ -1,0 +1,38 @@
+projeto id: thermal-history-284514
+servidor: 35.198.46.186
+instancia: db-xsol
+senha: Senha37623739
+
+
+---------------- GCLOUD SHELL
+gcloud config set project <project_id> -> Altera o ID do projeto padrão
+gclou sql connect <nome_database> --user=<nome_usuário>
+...Aparece mensagem de funcionamento em 5 minutos, então pede a senha
+use "<nome_database>" -> Seleciona o database para trabalho
+
+quit -> fecha a conexao
+exit -> fecha o shell
+
+--------------preços:
+- CPU E MEMORIA:
+
+vCPUS: $0,16 por vCPU: 		| R$ 0,83 por Vcpu 		x 1	= R$ 5,00
+Memoria: $0,05 por GB de memória| R$ 0,26 por GB de memoria	x 4GB	= R$ 5,00
+VCPUsHa: $0,40 por vcpu		| R$ 2,10 por vcpu		x 1	= R$ 3,00
+Memoria HA: $0,10 por GB	| R$ 0,55 por GB		x 4GB	= R$ 5,00
+
+
+- ARMAZENAMENTO E REDE:
+
+Armazenamento: $0,45 por GB (incluindo backups) 	|R$ 2,40 por GB x 20GB = 40,00
+Armazenamento HA: $0,75 por GB (incluindo backups) 	|R$ 6,00 por GB x 20GB = 120,00
+Rede: Ipv4 $14,10 					|R$ 80,00 por mes
+
+Total: R$ 260,00 por mês
+
+
+
+
+
+
+

@@ -1,0 +1,34 @@
+- panZonaPrincipal
+	left: 160 (isso está auto no load do frm)
+	top: 180
+	width: 14985
+	height: 14445
+----------------------------
+- panZona1
+	Left: -45
+	Top: 14670
+	Width: 5145
+	Height: 4350
+----------------------------------------------------
+- panZona2: 
+	Left: 5085
+	Top: 14670
+	Width: 5145
+	Height: 4350
+----------------------------------------------------		
+- panZona3: 
+	Left: 10320
+	Top: 14670
+	Width: 5145
+	Height: 4350
+----------------------------------------------------		
+panPagina1 (posicao original)
+	left: 255 
+	width: 7140
+	top: 240
+----------------------------------------------------		
+panPagina2 (posicao original)
+	left: 7515
+	width: 195
+	top: 210
+----------------------------------------------------
