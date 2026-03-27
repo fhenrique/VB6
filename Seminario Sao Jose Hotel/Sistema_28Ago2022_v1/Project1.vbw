@@ -1,0 +1,7 @@
+FrmCadHospedes = 325, 118, 780, 657, , 0, 0, 0, 0, C
+FrmPrincipal = 254, 129, 709, 668, C, 0, 0, 0, 0, C
+frmQuartos = 4, 58, 712, 597, C, 0, 0, 0, 0, C
+frmHospedagem = 480, 250, 935, 789, C, 0, 0, 0, 0, C
+frmQuartoServico = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmConfiguracoes = 254, 129, 709, 668, C, 0, 0, 0, 0, C
+frmRefeicoes = 373, 163, 828, 702, CZ, 0, 0, 0, 0, C
